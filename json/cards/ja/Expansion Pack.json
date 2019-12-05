@@ -1,0 +1,46 @@
+[
+    {
+      "id": "ja1-1",
+      "name": "フシギダネ",
+      "imageUrl": "",
+      "subtype": "Basic",
+      "supertype": "Pokémon",
+      "hp": "40",
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "number": "1",
+      "artist": "Mitsuhiro Arita",
+      "rarity": "Common",
+      "series": "Classic",
+      "set": "Ancient Origins",
+      "setCode": "ja1",
+      "types": [
+        "Grass"
+      ],
+      "attacks": [
+        {
+          "name": "Trip Over",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "imageUrlHiRes": "https://images.pokemontcg.io/xy7/1_hires.png",
+      "nationalPokedexNumber": 43,
+      "evolvesTo": [
+        "Gloom"
+      ]
+    }
+  ]
+  
